@@ -1,0 +1,1 @@
+msp430-gcc -Os -Wall -g -mmcu=msp430g2553 -o neopix.elf  ws2812.c neopix.c
